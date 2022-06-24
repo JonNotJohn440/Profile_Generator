@@ -12,4 +12,4 @@ node index.js
 
 It is built with Inquirer and runs on Jest. 
 
-This is the link to the app: https://jonnotjohn440.github.io/Profile_Generator/
+[Link to video](https://drive.google.com/file/d/1MMFAVuCsJnwuJBC7VfIlZTM4l9hTJzfA/view)
